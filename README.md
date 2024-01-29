@@ -1,4 +1,8 @@
-# Na-Cooled-Fast_Reactor_Fuel_Pin
-Preliminary design of a Sodium-cooled fast reactor fuel pin based on the published data of an ASTRID-like reactor.
+# Sodium Cooled Fast Reactor' Fuel Pin 1-1/2 D Analysis
+This project was developed during the last year of MSc. at 'Politecnico di Milano' for the 'Nuclear Design and Technology' course.
 
-A preliminary sizing is proposed based on the simulations about the thermo-mechanical behaviour of the fuel pin.
+The goal of the project was to perform a complete thermo-mechanical 1-1/2 D analysis in order to design a fuel pin for a SFR similar to the ASTRID concept. After a complete evaluation of all the main processes involved, is proposed a set of possible parameters in order to respect physical constraints and regulations limits. These parameters are: gap sizing, cladding thickness, plenum volume.
+
+The numerical simulations were made using the **Colab IDLE Python envinronment**.
+
+The theoretical frame and the procedure followed for the code development, together with the results is here available in the attached paper.
