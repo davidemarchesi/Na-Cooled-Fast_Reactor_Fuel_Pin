@@ -5,4 +5,4 @@ The goal of the project was to perform a complete thermo-mechanical 1-1/2 D anal
 
 The numerical simulations were made using the **Colab IDLE Python envinronment**.
 
-The theoretical frame and the procedure followed for the code development, together with the results is here available in the attached paper.
+The theoretical frame and the procedure followed for the code development, together with the results obtained, is here available in the attached paper.
